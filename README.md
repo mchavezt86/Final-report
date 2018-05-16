@@ -1,5 +1,5 @@
 # Final-report
-Final report for 4B25
+Final coursework for 4B25
 
 In this repository you will find the final report and the code used in the final coursework activity #6.
 
